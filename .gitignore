@@ -1,0 +1,28 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Generated files
+bank_transactions_clean.csv
+customer_segments_rfm_kmeans.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
